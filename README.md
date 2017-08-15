@@ -7,3 +7,5 @@ how many (but not which) of the 4, 5 or 6 numbers are correct. High scores/names
 of the game.
 
 For more information http://usingpython.com/python-programming-challenges/
+
+The only thing that needs to be changed by the user are the directory paths for the auxiliary files.
