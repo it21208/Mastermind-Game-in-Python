@@ -1,4 +1,4 @@
-# Mastermind-Game-in-Python
+ # Mastermind-Game-in-Python
 Mastermind or Master Mind is a code-breaking game. The codebreaker tries to guess the pattern of the number, 
 in both order and number - digit. 
 
@@ -10,4 +10,4 @@ For more information
                         ● http://usingpython.com/python-programming-challenges/                        
                         ● https://en.wikipedia.org/wiki/Mastermind_(board_game)
 
-The only thing that needs to be changed by the user are the directory paths for the auxiliary files.
+The only thing that needs to be changed by the user are the directory paths for the auxiliary .csv and .txt files.
